@@ -1,5 +1,5 @@
 # To ignore all txt files on root directory
-*.txt
+# *.txt
 
 # Ignore all Jupyter checkpoints
 **/.ipynb_checkpoints/
