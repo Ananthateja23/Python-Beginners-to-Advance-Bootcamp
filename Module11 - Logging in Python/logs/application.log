@@ -1,3 +1,5 @@
 [ 2025-08-02 10:06:12,480 ] root - INFO - This is first log message
 [ 2025-08-02 10:08:05,960 ] root - INFO - This is Second log message
 [ 2025-08-02 10:12:31,120 ] root - INFO - [Errno 2] No such file or directory: 'files/sample1.txt'
+[ 2025-08-02 10:26:06,187 ] ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+[ 2025-08-02 10:26:06,187 ] Comm - WARNING - No such comm: b5416b8c-517f-4a9f-9dbe-bf7bd4c86365
